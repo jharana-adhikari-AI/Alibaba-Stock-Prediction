@@ -1,4 +1,4 @@
-````markdown
+
 # Alibaba Stock Price Prediction
 
 ## Overview
@@ -52,5 +52,4 @@ The results indicate that deep learning models (LSTM and RNN) significantly outp
 
 ## License
 This project is open-source and available under the MIT License.
-````
 
